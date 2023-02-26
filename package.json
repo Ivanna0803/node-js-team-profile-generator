@@ -1,0 +1,29 @@
+{
+  "name": "js-team-profile-generator",
+  "version": "1.0.0",
+  "description": "Application that generates HTML files using input from a command-line interface",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivanna0803/node-js-team-profile-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ivanna0803/node-js-team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/Ivanna0803/node-js-team-profile-generator#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  },
+  "dependencies": {
+    "inquirer": "^6.5.0"
+  }
+}
